@@ -1,0 +1,15 @@
+{
+    "editor.hover.enabled": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.enabled": false,
+    "editor.wordBasedSuggestions": "currentDocument",
+    "editor.codeLens": false,
+    "editor.lightbulb.enabled": "off"
+}
