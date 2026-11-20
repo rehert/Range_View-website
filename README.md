@@ -13,7 +13,6 @@ The Range View Guest House website was developed to provide visitors with inform
 The project includes both a front-end interface and a PHP/MySQL back-end for storing booking enquiries.
 
 ## Features
-
 - Responsive guest house website
 - Home page with image slider
 - Accommodation page
